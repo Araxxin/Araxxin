@@ -1,14 +1,21 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Yara
 =============================================================================================================================
 
-Digital Forensics Analyst and Cybersecurity Enthusiast
+Aspiring Digital Forensics Analyst and Cybersecurity Enthusiast
 ------------------------------------------------------
 
-I’m a 21-year-old Computer Engineering student passionate about cybersecurity and programming. I’ve built projects ranging from a LAN chat system in Java to an embedded obstacle-avoiding robot, and I’ve explored areas like machine learning, CTF competitions, and network security tools. With experience in Python, Java, C, C++, and more, I’m driven to grow into a skilled red teamer and DFIR analyst/engineer, while continuing to learn, share knowledge, and contribute globally.
+I am a 21-year-old Computer Engineering student with a strong passion for cybersecurity, programming, and continuous learning. Over the past few years, I’ve built a solid technical foundation by working with Assembly, Python, Java, C, and C++, while also exploring Verilog, OpenGL, and embedded systems.
 
+My academic and project experience reflects both breadth and depth: I’ve written applications such as a LAN chat system in Java, developed software for an embedded robot that detects and reacts to obstacles, and gained exposure to machine learning and computer vision algorithms through hands-on, project-based learning. I’ve also challenged myself in Capture the Flag (CTF) competitions, where I successfully captured several flags individually, proving my problem-solving skills and persistence under pressure.
+
+Beyond coursework, I’ve contributed to research by publishing a paper on machine learning and expanding my knowledge through international learning opportunities, such as an online program with Hiroshima University. My interest in cybersecurity is not just academic. I actively train myself with tools like Wireshark, Packet Tracer, and OSINT platforms, and I’m committed to advancing toward becoming a skilled red teamer and DFIR analyst/engineer.
+
+Outside of pure technical work, I’ve been a Japanese culture volunteer, teaching language and traditions, and I enjoy exploring languages as a way of broadening my perspective. This reflects how I approach my career: with curiosity, adaptability, and the drive to connect across cultures and disciplines.
+
+Looking ahead, my goals are to continue expanding my cybersecurity expertise, contributing to impactful projects, and ultimately advancing my career in the United States, where I aim to grow, collaborate, and contribute to the industry.
 * 🌍  I'm based in Alexandria, Egypt
 * ✉️  You can contact me at [yara.elsaid@ejust.edu.eg](mailto:yara.elsaid@ejust.edu.eg)
-* 🧠  I'm currently learning .NET Fullstack Framekwork
+* 🧠  I'm currently learning .NET Fullstack Framework
 * 👥  I'm looking to collaborate on any research based projects and publications
 
 <p align="left">
